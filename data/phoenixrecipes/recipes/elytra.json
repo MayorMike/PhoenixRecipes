@@ -1,0 +1,23 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "PNP",
+           "PEP",
+           "P P"
+       ],
+       "key": {
+           "P": {
+               "item": "minecraft:phantom_membrane"
+           },
+           "N": {
+               "item": "minecraft:nether_star"
+           },
+           "E": {
+               "item": "minecraft:emerald"
+           }
+       },
+       "result": {
+           "id": "minecraft:elytra",
+		   "count": 1
+       }
+   }
