@@ -1,19 +1,20 @@
-   {
-       "type": "minecraft:crafting_shaped",
-       "pattern": [
-           "RRR",
-           " S ",
-           " S "
-       ],
-       "key": {
-           "R": {
-               "item": "#phoenixrecipes:stone_other"
-           },
-           "S": {
-               "item": "minecraft:stick"
-           }
-       },
-       "result": {
-           "id": "minecraft:stone_pickaxe"
-       }
-   }
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "R": [
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:granite"
+    ]
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe"
+  },
+  "show_notification": true
+}
