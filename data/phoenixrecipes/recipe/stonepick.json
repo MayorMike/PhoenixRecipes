@@ -10,7 +10,10 @@
     "R": [
       "minecraft:diorite",
       "minecraft:andesite",
-      "minecraft:granite"
+      "minecraft:granite",
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
     ]
   },
   "result": {
