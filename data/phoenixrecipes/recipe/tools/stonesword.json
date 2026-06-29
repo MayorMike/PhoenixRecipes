@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " R ",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "R": "#phoenixrecipes:stone_items"
+  },
+  "result": {
+    "id": "minecraft:stone_sword"
+  },
+  "show_notification": true
+}

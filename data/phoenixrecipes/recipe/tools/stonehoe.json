@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "R": "#phoenixrecipes:stone_items"
+  },
+  "result": {
+    "id": "minecraft:stone_hoe"
+  },
+  "show_notification": true
+}

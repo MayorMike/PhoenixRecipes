@@ -7,14 +7,7 @@
   ],
   "key": {
     "S": "minecraft:stick",
-    "R": [
-      "minecraft:diorite",
-      "minecraft:andesite",
-      "minecraft:granite",
-      "minecraft:cobblestone",
-      "minecraft:cobbled_deepslate",
-      "minecraft:blackstone"
-    ]
+    "R": "#phoenixrecipes:stone_items"
   },
   "result": {
     "id": "minecraft:stone_pickaxe"
